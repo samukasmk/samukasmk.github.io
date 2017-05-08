@@ -15,3 +15,6 @@ markdown: kramdown
 
 # Google services
 google_analytics: UA-97908701-1
+
+gems:
+  - jekyll-redirect-from

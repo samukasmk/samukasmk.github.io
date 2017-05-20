@@ -1,0 +1,19 @@
+<html>
+<head> <link rel="stylesheet" href="http://bit.ly/bootstrap-min-css"> </head>
+
+<body>
+  <div class="container">
+    <h3>Roteiro do Filme:</h3>
+    <div class="jumbotron">
+      <h2>O Voo do Dragão (1973) - Bruce Lee</h2>
+    </div>
+    <div class="center-block">
+      <h4>Cena 1:</h4> <p>Tang Lung aparece no aeroporto;</p>
+      <h4>Cena 2:</h4> <p>Tang Lung passa vergonha, por não falar italiano;</p>
+      <h4>Cena 3:</h4> <p>Tang Lung e Colt se preparam para o combate;</p>
+      <h4>Cena 4:</h4> <p>Colt é derrotado por Tang Lung em uma luta disputada;</p>
+    </div>
+  </div>
+</body>
+
+</html>
